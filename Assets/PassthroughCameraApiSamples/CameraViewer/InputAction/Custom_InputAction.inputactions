@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Custom_InputAction",
+    "maps": [
+        {
+            "name": "toggle",
+            "id": "927f5aac-f090-4153-bc7e-4c435c06105b",
+            "actions": [
+                {
+                    "name": "Toggle_settings",
+                    "type": "Button",
+                    "id": "77eb32e2-70ff-448d-9da7-8d38b4c6bca0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1498bf92-32c1-4be1-8e34-7b8fc5ef5716",
+                    "path": "<XRController>{LeftHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Toggle_settings",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
