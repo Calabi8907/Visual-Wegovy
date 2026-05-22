@@ -20,3 +20,4 @@ StreamingAssets*
 buildInfo.txt
 Packages/packages-lock.json
 PassthroughCameraApiSamples/
+.DS_Store
