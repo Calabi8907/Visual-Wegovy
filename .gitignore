@@ -1,3 +1,5 @@
+mono_crash.mem.*
+.vscode/
 Temp/
 UserSettings/
 Library/
@@ -9,6 +11,7 @@ Builds/
 .vsconfig
 *.csproj
 *.sln
+*.slnx
 /.utmp
 *.zip
 *.apk
@@ -21,3 +24,5 @@ buildInfo.txt
 Packages/packages-lock.json
 PassthroughCameraApiSamples/
 .DS_Store
+Assets/_Recovery/
+Assets/_Recovery.meta
