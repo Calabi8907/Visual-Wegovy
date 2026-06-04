@@ -19,5 +19,6 @@ PerformanceTestRun*.*
 StreamingAssets*
 buildInfo.txt
 Packages/packages-lock.json
+<<<<<<< Updated upstream
 PassthroughCameraApiSamples/
 .DS_Store
